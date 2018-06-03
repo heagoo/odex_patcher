@@ -4,8 +4,11 @@ Please be noted: the code is not well arranged, as most of them are directly cop
 
 ## How to Use
 ### Step 1: Compile Odex Patcher
-Please use APK Builder (https://play.google.com/store/apps/details?id=com.gmail.heagoo.apkbuilder) to compile it:
+Please use APK Builder (https://play.google.com/store/apps/details?id=com.gmail.heagoo.apkbuilder) to compile it:  
+https://youtu.be/Lp-hQU2IfxI
 ### Step 2: Modifiy an app
-Modify app with APK Editor Pro (https://play.google.com/store/apps/details?id=com.gmail.heagoo.apkeditor.pro), here is an example:
+Modify app with APK Editor Pro (https://play.google.com/store/apps/details?id=com.gmail.heagoo.apkeditor.pro), here is an example:  
+https://youtu.be/cvgpwVID2qk
 ### Step 3: Patch the app with modified apk file
-Open Odex Patcher, select the apk generated in Step 2, and then click at the "Pacth" button:
+Open Odex Patcher, select the apk generated in Step 2, and then click at the "Pacth" button:  
+https://youtu.be/e835a7lg9cE

@@ -3,12 +3,13 @@ An .odex file is an Optimized .dex file (hence the 'o'), meaning that it has bee
 Please be noted: the code is not well arranged, as most of them are directly copied from APK Editor. If you like it, please help to improve it.
 
 ## How to Use
-### Step 1: Compile Odex Patcher
+### Step 1: Compile and Install Odex Patcher
 Please use APK Builder (https://play.google.com/store/apps/details?id=com.gmail.heagoo.apkbuilder) to compile it:  
 https://youtu.be/Lp-hQU2IfxI
 ### Step 2: Modifiy an app
 Modify app with APK Editor Pro (https://play.google.com/store/apps/details?id=com.gmail.heagoo.apkeditor.pro), here is an example:  
-https://youtu.be/cvgpwVID2qk
-### Step 3: Patch the app with modified apk file
+https://youtu.be/cvgpwVID2qk  
+You could also use apktool to edit the smali code on PC.
+### Step 3: Patch the app with Odex Patcher
 Open Odex Patcher, select the apk generated in Step 2, and then click at the "Pacth" button:  
 https://youtu.be/e835a7lg9cE
